@@ -1,0 +1,90 @@
+    p {
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+    hr {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        color:rgb(82, 82, 82);
+        
+    }
+    hr:hover {
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    }
+    a {
+        color: blue;
+        transition: color 0.15s;
+    }
+    a:hover {
+        color: rgb(199, 81, 31);
+    }
+    a:active {
+        color: purple;
+    }
+    .title {
+        font-family: fantasy;
+        font-size: xxx-large;
+        font-weight: bold;
+        color: purple;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .subtitle {
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+        'Lucida Sans', Arial, sans-serif;
+        font-size: xx-large;
+        font-weight: bold;
+        color: chocolate;
+    }
+    
+    .notifications {
+        font-size: 18px;
+        color:rgb(246, 86, 18);
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+    .text-not {
+        font-size: 16px;
+    }
+    .text-not1 {
+        font-size: 16px;
+    }
+    
+    .title-rules {
+        font-size: 18px;
+        color:rgb(246, 86, 18);
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+    .text-rules {
+        font-size: 16px;
+        margin-bottom: 15px;
+        line-height: 18px;
+    }
+    .title-sheets {
+        font-size: 18px;
+        color:rgb(246, 86, 18);
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+    .IB-AA,
+    .Selectividad {
+        font-size: 18px;
+        color:rgb(8, 105, 158);
+        margin-bottom: 0px;
+        font-weight: bold;
+        font-family: fantasy;
+    }
+    .feedback {
+        font-size: 18px;
+        color:rgb(246, 86, 18);
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+    .text-feedback {
+        font-size: 16px;
+    }
+    .email {
+        font-size: 16px;
+    }
